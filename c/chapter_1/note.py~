@@ -1,0 +1,9 @@
+import json
+
+"""
+c provides serveral other basic data types besides int and float:
+char character-a single byte
+short short integer
+long long integer
+doubele double-precision floating point
+"""
